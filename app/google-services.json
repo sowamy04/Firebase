@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "269126863086",
+    "firebase_url": "https://bambey-68367.firebaseio.com",
+    "project_id": "bambey-68367",
+    "storage_bucket": "bambey-68367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269126863086:android:76ce560833c8fb94b18bff",
+        "android_client_info": {
+          "package_name": "com.amy.memoire.master2.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269126863086-ibkf1e1p6eb88m89culm5q7p87q1mpen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxUePwdXjYwxdAxi9MBNOKQ5OmjqyUOH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269126863086-ibkf1e1p6eb88m89culm5q7p87q1mpen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

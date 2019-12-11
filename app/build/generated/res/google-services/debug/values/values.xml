@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">269126863086-ibkf1e1p6eb88m89culm5q7p87q1mpen.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://bambey-68367.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">269126863086</string>
+    <string name="google_api_key" translatable="false">AIzaSyAxUePwdXjYwxdAxi9MBNOKQ5OmjqyUOH8</string>
+    <string name="google_app_id" translatable="false">1:269126863086:android:76ce560833c8fb94b18bff</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAxUePwdXjYwxdAxi9MBNOKQ5OmjqyUOH8</string>
+    <string name="google_storage_bucket" translatable="false">bambey-68367.appspot.com</string>
+    <string name="project_id" translatable="false">bambey-68367</string>
+</resources>
